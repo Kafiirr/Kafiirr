@@ -1,4 +1,3 @@
-# 💫 About Me:
 Co-Founder at Sirath Network and the driving force behind Barzakh AI, an AI-powered blockchain intelligence platform designed to turn complex on-chain data into actionable insights. With a deep background in blockchain infrastructure and a passion for emerging technologies that bridges the gap between decentralized systems and AI-driven automation.
 
 Committed to advancing the security standards of Web3 through continuous innovation and rigorous peer review. I prioritize the integration of ethical hacking into the development process to build resilient, battle-tested systems. My goal is to support the global researcher community in securing the future of decentralized technology.
@@ -14,4 +13,10 @@ Committed to advancing the security standards of Web3 through continuous innovat
 ![](https://nirzak-streak-stats.vercel.app/?user=Kafiirr&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kafiirr&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 Focus Areas
+- 🔐 Web3 Security & Smart Contract Hardening  
+- ⚡ High-performance Blockchain Infrastructure  
+- 🤖 AI x Blockchain Intelligence Systems  
+- 🌉 Cross-chain & Interoperability 
